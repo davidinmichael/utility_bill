@@ -6,3 +6,25 @@
 .stack {
     color: red;
 }
+
+.nav-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav > h1 {
+    color: blue;
+}
+.navbar {
+    display: flex;
+    gap: 2rem;
+    justify-content: flex-end;
+}
+
+.nav-items {
+    list-style-type: none;
+}
+.nav-link {
+    text-decoration: none;
+    color: blue;
+}
